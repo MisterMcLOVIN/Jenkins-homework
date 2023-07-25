@@ -1,2 +1,2 @@
 # Jenkins-homework
-# test ტსტს tsts
+# test ტსტს tstssadasdas
